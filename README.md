@@ -45,7 +45,7 @@ Run inside another terminal:
 npm run test # or yarn test
 ```
 
-This loads the stories from `/**/*.test.tsx`.
+This loads the tests from `/**/*.test.tsx`.
 
 ## Configuration
 
