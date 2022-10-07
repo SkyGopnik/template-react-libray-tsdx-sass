@@ -5,3 +5,4 @@ dist
 tester
 tester-react
 package-lock.json
+.idea
