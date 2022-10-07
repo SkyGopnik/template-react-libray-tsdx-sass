@@ -39,9 +39,9 @@ styleInject(css_248z);
 
 var Thing = function Thing(_ref) {
   var children = _ref.children;
-  return React.createElement("div", null, React.createElement("div", {
+  return React.createElement("div", {
     className: style.test
-  }, children || 'test'));
+  }, children || 'test');
 };
 
 // see: https://github.com/storybookjs/storybook/issues/9556
